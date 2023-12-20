@@ -53,7 +53,7 @@ Ensure these dependencies are properly installed and configured in your Visual S
 
 ## Contributing
 
-Contributions to enhance the project, optimize code, or improve documentation are welcome! Please follow the guidelines in CONTRIBUTING.md before submitting a pull request.
+Contributions to enhance the project, optimize code, or improve documentation are welcome! Please follow the guidelines before submitting a pull request.
 
 ## License
 
