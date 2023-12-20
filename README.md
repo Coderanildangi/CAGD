@@ -24,7 +24,6 @@ This repository encompasses a broad range of algorithms including, but not limit
 - Hermite curves
 - Bresenham's line drawing algorithm
 - Sutherland-Hodgman Polygon clipping algorithm
-- Surface reconstruction
 
 ## Implemented Algorithms
 
