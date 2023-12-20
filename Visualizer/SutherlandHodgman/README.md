@@ -12,6 +12,7 @@ This repository demonstrates the implementation of the Sutherland-Hodgman algori
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Output](#output)
 
 ## Introduction
 
@@ -63,3 +64,9 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 For any questions or discussions, please open an issue in this repository.
 
 Explore and experiment with the Sutherland-Hodgman algorithm for polygon clipping in Qt and OpenGL within Visual Studio!
+
+## Output
+![PolygonClipping1](https://github.com/Coderanildangi/CAGD/assets/149321466/37a253c8-8ebf-4fd3-80ea-1b9bf61b3f81)
+![PolygonClipping2](https://github.com/Coderanildangi/CAGD/assets/149321466/779ec4e3-cc35-425c-9d31-370e18067bb7)
+
+
