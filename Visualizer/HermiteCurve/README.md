@@ -12,6 +12,7 @@ This repository showcases the implementation of Hermit curves using Qt and OpenG
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Output](#output)
 
 ## Introduction
 
@@ -61,3 +62,7 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 For any questions or discussions, please open an issue in this repository.
 
 Enjoy implementing and exploring Hermit curves in Qt and OpenGL within Visual Studio!
+
+## Output
+![Hermit](https://github.com/Coderanildangi/CAGD/assets/149321466/7400ac1e-6282-4bc4-8681-92948c90bbbe)
+
