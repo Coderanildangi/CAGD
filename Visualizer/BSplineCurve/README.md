@@ -66,4 +66,5 @@ For any questions or discussions, please open an issue in this repository.
 Explore and experiment with B-Spline curves in Qt and OpenGL within Visual Studio!
 
 ## Output
+![B-spline](https://github.com/Coderanildangi/CAGD/assets/149321466/c6486200-de60-482b-90a8-8368ef713a68)
 
