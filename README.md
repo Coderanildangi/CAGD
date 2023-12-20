@@ -22,6 +22,7 @@ This repository encompasses a broad range of algorithms including, but not limit
 
 - Bezier curves 
 - Hermite curves
+- B-spline curves
 - Bresenham's line drawing algorithm
 - Sutherland-Hodgman Polygon clipping algorithm
 
