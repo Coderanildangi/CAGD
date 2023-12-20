@@ -69,7 +69,7 @@ Contributions are welcome! To contribute:
 - Piegl, L., & Tiller, W. (1997). The NURBS Book.
 - [Qt Documentation](https://doc.qt.io/qt-5/)
 - [OpenGL Documentation](https://www.opengl.org/documentation/)
-- Additional resources on polygon clipping and computational geometry may be useful for deeper understanding.
+- Visual Studio Community 2022.
 
 ## License
 
