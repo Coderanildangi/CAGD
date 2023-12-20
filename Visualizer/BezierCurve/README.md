@@ -12,6 +12,7 @@ This repository contains an implementation of Bezier curves using Qt and OpenGL 
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Output](#output)
 
 ## Introduction
 
@@ -62,3 +63,7 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 For any questions or discussions, please open an issue in this repository.
 
 Happy coding with Bezier curves in Qt and OpenGL!
+
+## Output
+![Bezier](https://github.com/Coderanildangi/CAGD/assets/149321466/5668d229-605b-4672-bd8b-b76a7ac58b24)
+
